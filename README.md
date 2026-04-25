@@ -98,3 +98,13 @@ Automated the extraction of book data from multiple pages, reducing manual effor
 Attached is the excel file to see the details.
 
 ```
+
+
+## ***What are the Attachments:***
+
+```
+1. BookStore_ Web_Scraping.py file
+2. BookStore_ Web_Scraping codesnap
+3. Book_details excel file 
+
+```
