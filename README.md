@@ -27,7 +27,7 @@ This project helps in understanding real-world web scraping concepts like HTML p
 - Requests
 - BeautifulSoup
 - Pandas
-- CSV File Handling
+- Excel File Handling
 
 ```
 
