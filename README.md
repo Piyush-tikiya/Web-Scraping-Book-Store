@@ -90,12 +90,11 @@ print("Data successfully saved to Excel file")
 
 ```
 
-## ***Output:***
+## ***Result:***
 
 ```
 Automated the extraction of book data from multiple pages, reducing manual effort and improving data accuracy.
 
-Attached is the excel file to see the details.
 
 ```
 
